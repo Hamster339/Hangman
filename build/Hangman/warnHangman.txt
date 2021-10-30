@@ -1,0 +1,89 @@
+missing module named 'multiprocessing.forking' - imported by c:\users\hphil\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\hphil\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by c:\users\hphil\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named StringIO - imported by six, nltk.compat, nltk.corpus.reader.timit, pkg_resources._vendor.six
+missing module named __builtin__ - imported by pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named __main__ - imported by pkg_resources
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named resource - imported by posix, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named posix - imported by os, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named 'org.python' - imported by pickle, xml.sax, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named readline - imported by cmd, code, pdb, pstats, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named _winreg - imported by platform, pygame, pygame.sysfont, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py, pkg_resources._vendor.appdirs
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named vms_lib - imported by platform, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named termios - imported by tty, getpass, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named grp - imported by shutil, tarfile, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, distutils.util, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named org - imported by copy, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\hphil\OneDrive\Desktop\hagman\Hangman.py
+missing module named yaml - imported by nltk.data
+missing module named "'six.moves.urllib'.request" - imported by nltk.data, nltk.util, nltk.downloader
+missing module named cPickle - imported by nltk.data, nltk.corpus.reader.util
+missing module named cStringIO - imported by nltk.compat, cPickle, pygame.compat
+missing module named copy_reg - imported by cStringIO, cPickle, pygame
+missing module named matplotlib - imported by nltk.probability, nltk.tokenize.texttiling, nltk.parse.dependencygraph, nltk.draw.dispersion
+missing module named nltk.__file__ - imported by nltk, nltk.internals
+missing module named text_unidecode - imported by nltk.compat
+missing module named unidecode - imported by nltk.compat
+runtime module named six.moves - imported by 'six.moves.urllib', nltk.tokenize.casual, nltk.metrics.scores, nltk.metrics.segmentation, nltk.classify.scikitlearn, nltk.parse.chart, nltk.draw, tkinter, tkinter.filedialog, nltk.parse.featurechart, tkinter.font, nltk.sem.relextract, nltk.parse.earleychart, nltk.parse.nonprojectivedependencyparser, nltk.tag.hmm, nltk.corpus.reader.wordnet, nltk.corpus.reader.framenet, nltk.stem.snowball, tkinter.messagebox, nltk.downloader, nltk, nltk.misc.chomsky
+missing module named six.moves.input - imported by six.moves, nltk.stem.snowball, nltk.downloader
+missing module named six.moves.map - imported by six.moves, nltk.tag.hmm
+missing module named six.moves.zip - imported by six.moves, nltk.metrics.scores, nltk.classify.scikitlearn, nltk.tag.hmm, nltk.misc.chomsky
+missing module named six.moves.range - imported by six.moves, nltk.metrics.scores, nltk.metrics.segmentation, nltk.parse.chart, nltk.parse.featurechart, nltk.parse.earleychart, nltk.parse.nonprojectivedependencyparser, nltk.corpus.reader.wordnet
+missing module named nltk.ProbabilisticTree - imported by nltk, nltk.tree
+missing module named nltk.Tree - imported by nltk, nltk.tree, nltk.chunk.regexp
+missing module named nose - imported by nltk.tokenize.stanford_segmenter, nltk.metrics.segmentation, nltk.classify.scikitlearn, nltk.classify.senna, nltk.tag.hunpos, nltk.draw, nltk.sem.drt, nltk.parse.bllip, nltk.parse.corenlp, nltk.tag.stanford, nltk.tag.senna
+missing module named nltk.CFG - imported by nltk, nltk.draw.cfg, nltk.grammar, nltk.parse.chart, nltk.parse.recursivedescent, nltk.parse.shiftreduce
+missing module named nltk.Production - imported by nltk, nltk.draw.cfg, nltk.grammar, nltk.parse.chart
+missing module named nltk.Nonterminal - imported by nltk, nltk.draw.cfg
+missing module named requests - imported by nltk.parse.corenlp
+missing module named 'bllipparser.RerankingParser' - imported by nltk.parse.bllip
+missing module named bllipparser - imported by nltk.parse.bllip
+missing module named sklearn - imported by nltk.classify.scikitlearn, nltk.parse.transitionparser
+missing module named 'sklearn.datasets' - imported by nltk.parse.transitionparser
+missing module named scipy - imported by nltk.metrics.scores, nltk.parse.transitionparser
+missing module named numpy - imported by nltk.tokenize.texttiling, nltk.metrics.segmentation, nltk.metrics.aline, nltk.classify.megam, nltk.classify.maxent, nltk.classify.tadm, nltk.parse.transitionparser, nltk.tag.hmm, pygame._numpysurfarray, pygame._numpysndarray, pygame, nltk, nltk.cluster.util, nltk.cluster.kmeans, nltk.cluster.gaac, nltk.cluster.em
+missing module named pycrfsuite - imported by nltk.tag.crf
+missing module named nltk.FreqDist - imported by nltk, nltk.classify.textcat
+missing module named nltk.word_tokenize - imported by nltk, nltk.classify.textcat
+missing module named regex - imported by nltk.classify.textcat
+missing module named 'sklearn.naive_bayes' - imported by nltk.classify.scikitlearn
+missing module named 'sklearn.linear_model' - imported by nltk.classify.scikitlearn
+missing module named 'sklearn.preprocessing' - imported by nltk.classify.scikitlearn
+missing module named 'scipy.stats' - imported by nltk.metrics.association
+missing module named networkx - imported by nltk.parse.dependencygraph
+missing module named nltk.Prover9 - imported by nltk, nltk.sem.glue
+missing module named sets - imported by nltk.decorators
+missing module named nltk.induce_pcfg - imported by nltk, nltk.grammar
+missing module named nltk.nonterminals - imported by nltk, nltk.grammar, nltk.parse.chart
+missing module named 'pygame._view' - imported by pygame
+missing module named MacOS - imported by pygame.macosx
+missing module named macresource - imported by MacOS
+missing module named pygame.sdlmain_osx - imported by pygame, pygame.macosx
+missing module named OpenGL - imported by pygame
+missing module named 'pygame.movie' - imported by pygame
+missing module named pygame.SRCALPHA - imported by pygame, pygame.ftfont
+missing module named Queue - imported by pygame.threads
+missing module named Py25Queue - imported by pygame.threads
+missing module named ossaudiodev - imported by nltk.corpus.reader.timit
+missing module named "'six.moves.urllib'.error" - imported by nltk.downloader
+missing module named numpypy - imported by nltk
